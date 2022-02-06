@@ -1,26 +1,31 @@
 [
     {
         "title": "Bangla (both paper)",
+        "duration": "10 months",
         "courseCode": "c1",
         "img": "https://i.ibb.co/k2vvyrV/Bangla-Goddo.png"
     },
     {
         "title": "Endlish (both paper)",
+        "duration": "10 months",
         "courseCode": "c2",
         "img": "https://i.ibb.co/ccCLW7j/English-First.png"
     },
     {
         "title": "General Mathemathics",
+        "duration": "6 months",
         "courseCode": "c3",
         "img": "https://i.ibb.co/r0wbYBN/Maths-One.png"
     },
     {
         "title": "General Science",
+        "duration": "6 months",
         "courseCode": "c4",
         "img": "https://i.ibb.co/7GNNDZM/Physics-First.png"
     },
     {
         "title": "Bangladesh and Global Studies",
+        "duration": "10 months",
         "courseCode": "c5",
         "img": "https://i.ibb.co/ZgC8pns/BGS.png"
     },
